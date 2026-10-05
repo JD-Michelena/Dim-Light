@@ -1,6 +1,9 @@
 .gradle
 build
+out/
+bin/
 .idea/
+*.iml
 .project
 .settings/
 .classpath
@@ -8,3 +11,5 @@ nbactions.xml
 nb-configuration.xml
 nbproject/
 *.class
+*.log
+.DS_Store
